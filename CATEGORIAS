@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name> [COLOR yellow][B] Tv AoVivo [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-10.56.56.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/INFANTIS</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
+<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Tv AoVivo [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/CATEGORIAS%20DE%20TV</externallink>
+<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
@@ -15,10 +15,10 @@
 
 <channels>
 <channel>
-<name> [COLOR yellow][B] Filmes [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-10.57.41.jpg</thumbnail>
+<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Filmes [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
+<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
@@ -30,10 +30,10 @@
 
 <channels>
 <channel>
-<name> [COLOR yellow][B] Séries [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-10.58.37.jpg</thumbnail>
+<name> [COLOR yellow][B]->[/B][/COLOR] Séries [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
+<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
@@ -45,10 +45,10 @@
 
 <channels>
 <channel>
-<name> [COLOR yellow][B] Desenhos [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-10.59.44.jpg</thumbnail>
+<name> [COLOR yellow][B]->[/B][/COLOR] Desenhos [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
+<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
@@ -60,29 +60,14 @@
 
 <channels>
 <channel>
-<name> [COLOR yellow][B] Animes [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-11.00.28.jpg</thumbnail>
+<name> [COLOR yellow][B]->[/B][/COLOR] Animes [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
+<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
  [COLOR white] Assista os seus Animes favoritos!  [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B] Novelas [/B][/COLOR]  </name>
-<thumbnail>https://ia801504.us.archive.org/21/items/picsart041110.50.01/PicsArt_04-11-11.01.16.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801504.us.archive.org/21/items/picsart041110.50.01/FUNDO.jpg</fanart>
-<info>
-
-
- [COLOR white] Assista as suas Novelas favoritas!  [/COLOR] </info>
 </channel>
 </channels>
 
