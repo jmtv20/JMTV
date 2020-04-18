@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] BBB 2020 [/B][/COLOR]  </name>
-<thumbnail>https://ia801509.us.archive.org/12/items/1586704472733/25458514.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/BBB</externallink>
+<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Servidor 1 [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/SERVIDOR1</externallink>
 <fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
- [COLOR white] Big Brother Brasil 2020 [/COLOR] </info>
+ [COLOR white] Canais de Tv [/COLOR] </info>
 </channel>
 </channels>
 
@@ -15,122 +15,15 @@
 
 <channels>
 <channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Abertos [/B][/COLOR]  </name>
-<thumbnail>https://ia601509.us.archive.org/12/items/1586704472733/1586704438218.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/ABERTOS</externallink>
+<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Servidor 2 [/B][/COLOR] [COLOR yellow][B] Em Manutenção [/B][/COLOR]  </name>
+<thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
+<externallink>https://urlaqui</externallink>
 <fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
- [COLOR white] Canais Abertos [/COLOR] </info>
+ [COLOR white] Canais de Tv [/COLOR] </info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Filmes e Séries [/B][/COLOR]  </name>
-<thumbnail>https://ia801509.us.archive.org/12/items/1586704472733/1586704498866.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais de Filmes e Séries [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Infantis [/B][/COLOR]  </name>
-<thumbnail>https://ia601509.us.archive.org/12/items/1586704472733/1586704484444.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/INFANTISS</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais Infantis [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Esportes [/B][/COLOR]  </name>
-<thumbnail>https://archive.org/download/1586704472733/1586704472733.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/ESPORTES</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais Esportivos [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Notícias [/B][/COLOR]  </name>
-<thumbnail>https://ia801509.us.archive.org/12/items/1586704472733/1586704455054.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jmtv20/JMTV/master/NOTICIAS</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais de Notícias [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Documentários [/B][/COLOR]  </name>
-<thumbnail>https://ia601509.us.archive.org/12/items/1586704472733/1586704463174.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais de Documentários [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Variedades [/B][/COLOR]  </name>
-<thumbnail>https://ia601509.us.archive.org/24/items/picsart041310.46.36/PicsArt_04-13-10.46.36.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais Variados [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name> [COLOR yellow][B]->[/B][/COLOR] [COLOR blue][B] Religiosos [/B][/COLOR]  </name>
-<thumbnail>https://ia801509.us.archive.org/12/items/1586704472733/1586704446513.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
-<info>
-
-
- [COLOR white] Canais Religiosos [/COLOR] </info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
