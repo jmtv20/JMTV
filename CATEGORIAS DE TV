@@ -1,18 +1,15 @@
-<channels>
-<channel>
-<name> [COLOR blue][B]->[/B][/COLOR] [COLOR yellow][B] GUIA DE PROGRAMAÇÃO [/B][/COLOR]  </name>
+<item>
+<title> [COLOR blue][B]->[/B][/COLOR] [COLOR yellow][B] Guia de Programação da TV [/B][/COLOR]  </title>
+<link>https://meuguia.tv/</link>
 <thumbnail>https://ia801508.us.archive.org/21/items/1586701155490/1586705149864.png</thumbnail>
-<externallink>https://meuguia.tv/</externallink>
 <fanart>https://archive.org/download/1586701155490/1586701155490.jpg</fanart>
 <info>
 
 
- [COLOR white] Canais de Tv [/COLOR] </info>
-</channel>
-</channels>
+ [COLOR white]  [/COLOR] </info>
+</item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
